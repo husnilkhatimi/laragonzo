@@ -3,6 +3,8 @@
 
 LaraGonzo is a repackaged version of [Laragon](https://github.com/leokhoa/laragon) (currently v6), with some modifications and a customized setup (the installer).
 
+![laragonzo_alpha_setup_fresh_installation](https://github.com/user-attachments/assets/b473c81d-d008-446d-8b8e-e95a0c2ae221)
+
 I made these modifications for personal use, enhancing some of Laragon’s functionalities and simplifying tasks. I figured, why not share it with the world? Ja?! :wink:
 
 ## Download LaraGonzo
@@ -10,6 +12,8 @@ I made these modifications for personal use, enhancing some of Laragon’s funct
 **Go to [Releases](https://github.com/husnilkhatimi/laragonzo/releases)**
 
 ## Features / Modifications
+
+![laragonzo_alpha_mods_menu_features](https://github.com/user-attachments/assets/95d9cd15-352c-4b87-9095-45887c2d2b34)
 
 **+ Updated Binaries and Tools**:  
 Most of the components have been updated.
