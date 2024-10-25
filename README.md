@@ -1,45 +1,69 @@
-# Laragon - The Dev Environment for Web Artisans
+# LaraGonzo  
+## "The same Laragon, just a little bit Gonzo..."
 
-## What is Laragon?
+LaraGonzo is a repackaged version of [Laragon](https://github.com/leokhoa/laragon) (currently v6), with some modifications and a customized setup (the installer).
 
-Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
+I made these modifications for personal use, enhancing some of Laragon’s functionalities and simplifying tasks. I figured, why not share it with the world? Ja?! :wink:
 
-Laragon is great for building and managing modern web applications. It is focused on performance  - designed around stability, simplicity, flexibility and freedom.
+## Download LaraGonzo
 
-Laragon is very lightweight and will stay as lean as possible. The core binary itself is less than 2MB and uses less than 4MB RAM when running.
+**Go to [Releases](https://github.com/husnilkhatimi/laragonzo/releases)**
 
-Laragon doesn't use Windows services. It has its own `service orchestration` which manages services asynchronously and non-blocking so you'll find things run fast & smoothly with Laragon.
+## Features / Modifications
 
-Enjoy!
+**+ Updated Binaries and Tools**:  
+Most of the components have been updated.
 
-## Features
+- Check [Releases](https://github.com/husnilkhatimi/laragonzo/releases)
 
-- **Pretty URLs**
-  Use `app.test` instead of `localhost/app`.
-- **Portable**
-  You can move Laragon folder around (to another disks, to another laptops, sync to Cloud,...) without any worries. 
-- **Isolated**
-  Laragon has an isolated environment with your OS - it will keep your system clean.
-- **Easy Operation**
-  Unlike others which pre-config for you, Laragon **`auto-configs`** all the complicated things. That way you can add another versions of PHP, Python, Ruby, Java, Go, Apache, Nginx, MySQL, PostgreSQL, MongoDB,... effortlessly.
-- **Modern & Powerful**
-  Laragon comes with a modern architecture which is suitable to build modern web apps. You can work with both Apache & Nginx as they are fully-managed.
-  Also, Laragon makes things a lot easier:
-  - Wanna have a Wordpress CMS? Just 1 click.
-  - Wanna show your local project to customers? Just 1 click.  
-  - Wanna enable/disable a PHP extension? Just 1 click.
+**+ Added <a href="https://mailpit.axllent.org/" target="_blank">Mailpit</a>**:  
+MENU > Laragon > `Run Mailpit`
+
+- With persistent email storage (mailpit.db SQLite included)
+- Parameters available in `bin\mailpit
+un_mailpit.cmd`
+
+**+ Added <a href="https://localtonet.com/" target="_blank">Localtonet</a>**:  
+MENU > Laragon > `Run Localtonet`
+
+- As an alternative to ngrok
+- Parameters available in `bin\localtonet
+un_localtonet.cmd`
+
+**+ Updated Packages List**:  
+MENU > Tools > `Quick add`
+
+- Lists tools and packages that can be added
+
+**+ Updated Sites List**:  
+MENU > `Quick app`  
+- Apps: Laravel (installer), CakePHP, CodeIgniter, Symfony, Yii2, Drupal, Grav, Joomla, Wordpress
+
+**+ Added Easy List-Updater**:  
+MENU > Laragon > `Update app list` | `Update package list`  
+- Retrieves the latest `sites.conf` and `packages.conf` from this repo.
+
+## Frequently Asked Questions
+
+**Supported Windows Versions and Architecture?**
+
+Supports 64-bit architecture only, with a minimum of Windows 8. While tests were done on Windows 7, many things will break (e.g., <a href="https://www.php.net/manual/en/migration83.windows-support.php" target="_blank">PHP 8.3<sup>*</sup></a> and Mailpit), and Windows 7 is already EOL (End of Life), FYI.
+
+**Can it be installed on top of an existing Laragon 6 installation?**
+
+Yes. If the setup detects an existing Laragon installation, it will run in extraction mode only.
+
+**I need another components, can I run the setup again?**
+
+Yes. Absolutely.
 
 
+**Will it remove anything from my existing installation?**
 
-*Laragon is trully isolated & portable. However, you may need to use the installer as it will detect and install missing run-time components that are required to run C++ applications built using Visual Studio such as `PHP, Apache` for you.*
+No. In the setup wizard, checked components will be installed, and unchecked components won't be installed. That's it. It won't remove existing components from your Laragon folder, even if you uncheck them in the setup wizard.
 
+## Notes
 
-## How fast?
-Laragon starts instantly. You can set Laragon autorun when Windows starts. When running, Laragon uses just a little amount of your RAM.
-Here is the GUI of Laragon:
-![0_1513173700919_01-dashboard.png](https://i.imgur.com/f8rBqSU.png) 
+I hope the original author of Laragon, [leokhoa](https://github.com/leokhoa/laragon), continues working on a new version of Laragon. There is so much potential, and many more features could be added.
 
-## How easy?
-- Laragon is very easy to install & upgrade. Just download the latest version and click `Next, Next, Next...`
-- Laragon is very easy to use. Most of the time it will work out-of-the-box without the need to touch any configuration files.
-- Laragon is very easy to extend. You can add other services to your current stack by just extracting them to `Laragon's bin` folder.
+LaraGonzo leverages Laragon’s flexibility and automation but not too much can be change since most of the automation is hard-coded in the executable itself.
