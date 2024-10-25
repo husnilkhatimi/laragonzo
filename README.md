@@ -63,7 +63,7 @@ No. In the setup wizard, checked components will be installed, and unchecked com
 
 **:question: What is gonzo?**
 
-<a href="https://www.merriam-webster.com/dictionary/gonzo" target="_blank">Here</a></a>
+<a target="_blank" href="https://www.google.com/search?q=define+gonzo">Here</a></a>
 
 ## Notes
 
