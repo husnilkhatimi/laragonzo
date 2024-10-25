@@ -45,20 +45,20 @@ MENU > Laragon > `Update app list` | `Update package list`
 
 ## Frequently Asked Questions
 
-**Supported Windows Versions and Architecture?**
+**:question: Supported Windows Versions and Architecture?**
 
 Supports 64-bit architecture only, with a minimum of Windows 8. While tests were done on Windows 7, many things will break (e.g., <a href="https://www.php.net/manual/en/migration83.windows-support.php" target="_blank">PHP 8.3<sup>*</sup></a> and Mailpit), and Windows 7 is already EOL (End of Life), FYI.
 
-**Can it be installed on top of an existing Laragon 6 installation?**
+**:question: Can it be installed on top of an existing Laragon 6 installation?**
 
 Yes. If the setup detects an existing Laragon installation, it will run in extraction mode only.
 
-**I need another components, can I run the setup again?**
+**:question: I need another components, can I run the setup again?**
 
 Yes. Absolutely.
 
 
-**Will it remove anything from my existing installation?**
+**:question: Will it remove anything from my existing installation?**
 
 No. In the setup wizard, checked components will be installed, and unchecked components won't be installed. That's it. It won't remove existing components from your Laragon folder, even if you uncheck them in the setup wizard.
 
