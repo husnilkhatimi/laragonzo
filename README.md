@@ -57,10 +57,13 @@ Yes. If the setup detects an existing Laragon installation, it will run in extra
 
 Yes. Absolutely.
 
-
 **:question: Will it remove anything from my existing installation?**
 
 No. In the setup wizard, checked components will be installed, and unchecked components won't be installed. That's it. It won't remove existing components from your Laragon folder, even if you uncheck them in the setup wizard.
+
+**:question: What is gonzo?**
+
+<a href="https://www.merriam-webster.com/dictionary/gonzo" target="_blank">Here</a></a>
 
 ## Notes
 
