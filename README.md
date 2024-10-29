@@ -24,15 +24,13 @@ Most of the components have been updated.
 MENU > Laragon > `Run Mailpit`
 
 - With persistent email storage (mailpit.db SQLite included)
-- Parameters available in `bin\mailpit
-un_mailpit.cmd`
+- Parameters available in `bin\mailpit run_mailpit.cmd`
 
 **+ Added <a href="https://localtonet.com/" target="_blank">Localtonet</a>**:  
 MENU > Laragon > `Run Localtonet`
 
 - As an alternative to ngrok
-- Parameters available in `bin\localtonet
-un_localtonet.cmd`
+- Parameters available in `bin\localtonet run_localtonet.cmd`
 
 **+ Updated Packages List**:  
 MENU > Tools > `Quick add`
