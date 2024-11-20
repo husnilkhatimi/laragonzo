@@ -1,0 +1,42 @@
+{
+	"php74": {
+		"label": "PHP v7.4.33",
+		"url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip"
+	},
+	"php82": {
+		"label": "PHP v8.2.25",
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.2.25-Win32-vs16-x64.zip"
+	},
+	"php83": {
+		"label": "PHP v8.3.13",
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.3.13-Win32-vs16-x64.zip"
+	},
+	"mariadb11": {
+		"label": "MariaDB v11.4.4",
+		"url": "https://archive.mariadb.org/mariadb-11.4.4/winx64-packages/mariadb-11.4.4-winx64.zip"
+	},
+	"heidisql": {
+		"label": "HeidiSQL v12.8",
+		"url": "https://www.heidisql.com/downloads/releases/HeidiSQL_12.8_64_Portable.zip"
+	},
+	"dbeaver": {
+		"label": "DBeaver CE",
+		"url": "https://dbeaver.io/files/dbeaver-ce-latest-win32.win32.x86_64.zip"
+	},
+	"git": {
+		"label": "Git Portable v2.47.0.2",
+		"url": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/PortableGit-2.47.0.2-64-bit.7z.exe"
+	},
+	"nodejs": {
+		"label": "Node.js v22.10.0",
+		"url": "https://nodejs.org/dist/v22.10.0/node-v22.10.0-win-x64.zip"
+	},
+	"python": {
+		"label": "Python v3.13.0 (standalone setup)",
+		"url": "https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe"
+	},
+	"vcredis": {
+		"label": "Visual C++ Redistributable",
+		"url": "https://aka.ms/vs/17/release/vc_redist.x64.exe"
+	}
+}
