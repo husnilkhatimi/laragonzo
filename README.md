@@ -3,7 +3,7 @@
 
 LaraGonzo is a repackaged version of [Laragon](https://github.com/leokhoa/laragon) (currently v6), with some modifications and a customized setup (the installer).
 
-![laragonzo_alpha_setup_fresh_installation](https://github.com/user-attachments/assets/b473c81d-d008-446d-8b8e-e95a0c2ae221)
+![laragonzo_setup_components](https://github.com/user-attachments/assets/564e69f7-115f-4c99-96e0-3b3a10b295cd)
 
 I made these modifications for personal use, enhancing some of Laragon’s functionalities and simplifying tasks. I figured, why not share it with the world? Ja?! :wink:
 
@@ -12,37 +12,28 @@ I made these modifications for personal use, enhancing some of Laragon’s funct
 **Go to [Releases](https://github.com/husnilkhatimi/laragonzo/releases)**
 
 ## Features / Modifications
-
-![laragonzo_alpha_mods_menu_features](https://github.com/user-attachments/assets/95d9cd15-352c-4b87-9095-45887c2d2b34)
-
 **+ Updated Binaries and Tools**:  
 Most of the components have been updated.
 
-- Check [Releases](https://github.com/husnilkhatimi/laragonzo/releases)
-
-**+ Added <a href="https://mailpit.axllent.org/" target="_blank">Mailpit</a>**:  
-MENU > Laragon > `Run Mailpit`
+- Check details on latest release page.
+  
+**+ Added <a href="https://mailpit.axllent.org/" target="_blank">Mailpit</a>**: MENU > Laragon > `Run Mailpit`
 
 - With persistent email storage (mailpit.db SQLite included)
 - Parameters available in `bin\mailpit run_mailpit.cmd`
 
-**+ Added <a href="https://localtonet.com/" target="_blank">Localtonet</a>**:  
-MENU > Laragon > `Run Localtonet`
+**+ Added <a href="https://localtonet.com/" target="_blank">Localtonet</a>**: MENU > Laragon > `Run Localtonet`
 
 - As an alternative to ngrok
 - Parameters available in `bin\localtonet run_localtonet.cmd`
 
-**+ Updated Packages List**:  
-MENU > Tools > `Quick add`
-
+**+ Updated Packages List**: MENU > Tools > `Quick add`
 - Lists tools and packages that can be added
 
-**+ Updated Sites List**:  
-MENU > `Quick app`  
+**+ Updated Sites List**: MENU > `Quick app`  
 - Apps: Laravel (installer), CakePHP, CodeIgniter, Symfony, Yii2, Drupal, Grav, Joomla, Wordpress
 
-**+ Added Easy List-Updater**:  
-MENU > Laragon > `Update app list` | `Update package list`  
+**+ Added Easy List-Updater**: MENU > Laragon > `Update list`  
 - Retrieves the latest `sites.conf` and `packages.conf` from this repo.
 
 ## Frequently Asked Questions
