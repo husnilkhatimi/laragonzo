@@ -32,8 +32,8 @@
 		"url": "https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/PortableGit-2.47.0.2-64-bit.7z.exe"
 	},
 	"nodejs": {
-		"label": "Node.js v22.10.0",
-		"url": "https://nodejs.org/dist/v22.10.0/node-v22.10.0-win-x64.zip"
+		"label": "Node.js v22.11.0",
+		"url": "https://nodejs.org/dist/v22.11.0/node-v22.11.0-win-x64.zip"
 	},
 	"python": {
 		"label": "Python v3.13.0 (standalone setup)",
