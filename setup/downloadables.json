@@ -4,16 +4,16 @@
 		"url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip"
 	},
 	"php82": {
-		"label": "PHP v8.2.26",
-		"url": "https://windows.php.net/downloads/releases/php-8.2.26-Win32-vs16-x64.zip"
+		"label": "PHP v8.2.27",
+		"url": "https://windows.php.net/downloads/releases/php-8.2.27-Win32-vs16-x64.zip"
 	},
 	"php83": {
-		"label": "PHP v8.3.14",
-		"url": "https://windows.php.net/downloads/releases/php-8.3.14-Win32-vs16-x64.zip"
+		"label": "PHP v8.3.15",
+		"url": "https://windows.php.net/downloads/releases/php-8.3.15-Win32-vs16-x64.zip"
 	},	
 	"php84": {
-		"label": "PHP v8.4.1",
-		"url": "https://windows.php.net/downloads/releases/php-8.4.1-Win32-vs17-x64.zip"
+		"label": "PHP v8.4.2",
+		"url": "https://windows.php.net/downloads/releases/php-8.4.2-Win32-vs17-x64.zip"
 	},
 	"mariadb11": {
 		"label": "MariaDB v11.4.4",
@@ -32,8 +32,8 @@
 		"url": "https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-64-bit.exe"
 	},
 	"nodejs": {
-		"label": "Node.js v22.11.0",
-		"url": "https://nodejs.org/dist/v22.11.0/node-v22.11.0-win-x64.zip"
+		"label": "Node.js v22.12.0",
+		"url": "https://nodejs.org/dist/v22.12.0/node-v22.12.0-win-x64.zip"
 	},
 	"python": {
 		"label": "Python v3.13.0 (standalone setup)",
