@@ -13,17 +13,18 @@ I made these modifications for personal use, enhancing some of Laragon’s funct
 
 ## Features / Modifications
 **+ Updated Binaries and Tools**:  
-Most of the components have been updated.
+Most of the components have been updated. Details are on the latest release page.
 
-- Check details on latest release page.
+![laragonzo_250111_front](https://github.com/user-attachments/assets/521d1fa9-75e0-4f91-b1a7-002a6ded7c08)
   
-**+ Added <a href="https://mailpit.axllent.org/" target="_blank">Mailpit</a>**: MENU > Laragon > `Run Mailpit`
-
+**+ Added <a href="https://mailpit.axllent.org/" target="_blank">Mailpit</a>**
 - With persistent email storage (mailpit.db SQLite included)
 - Parameters available in `bin\mailpit run_mailpit.cmd`
+  
+**+ Added <a href="https://github.com/ChangemakerStudios/Papercut-SMTP" target="_blank">Papercut SMTP</a>**
+- Simple desktop app to test email function
 
-**+ Added <a href="https://localtonet.com/" target="_blank">Localtonet</a>**: MENU > Laragon > `Run Localtonet`
-
+**+ Added <a href="https://localtonet.com/" target="_blank">Localtonet</a>**
 - As an alternative to ngrok
 - Parameters available in `bin\localtonet run_localtonet.cmd`
 
