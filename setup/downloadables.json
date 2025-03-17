@@ -4,16 +4,16 @@
 		"url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip"
 	},
 	"php82": {
-		"label": "PHP v8.2.26",
-		"url": "https://windows.php.net/downloads/releases/archives/php-8.2.26-Win32-vs16-x64.zip"
+		"label": "PHP v8.2.27",
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.2.27-Win32-vs16-x64.zip"
 	},
 	"php83": {
-		"label": "PHP v8.3.16",
-		"url": "https://windows.php.net/downloads/releases/archives/php-8.3.16-Win32-vs16-x64.zip"
+		"label": "PHP v8.3.18",
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.3.18-Win32-vs16-x64.zip"
 	},	
 	"php84": {
-		"label": "PHP v8.4.3",
-		"url": "https://windows.php.net/downloads/releases/archives/php-8.4.3-Win32-vs17-x64.zip"
+		"label": "PHP v8.4.4",
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.4.4-Win32-vs17-x64.zip"
 	},
 	"mariadb11": {
 		"label": "MariaDB v11.4.5",
@@ -28,8 +28,8 @@
 		"url": "https://dbeaver.io/files/dbeaver-ce-latest-win32.win32.x86_64.zip"
 	},
 	"git": {
-		"label": "Git Portable v2.47.2",
-		"url": "https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/Git-2.47.1.2-64-bit.exe"
+		"label": "Git Portable v2.48.1",
+		"url": "https://github.com/git-for-windows/git/releases/download/v2.48.1.windows.1/Git-2.48.1-64-bit.exe"
 	},
 	"nodejs": {
 		"label": "Node.js v22.14.0",
