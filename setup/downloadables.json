@@ -4,16 +4,16 @@
 		"url": "https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip"
 	},
 	"php82": {
-		"label": "PHP v8.2.28",
-		"url": "https://windows.php.net/downloads/releases/php-8.2.28-Win32-vs16-x64.zip"
+		"label": "PHP v8.2.27",
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.2.27-Win32-vs16-x64.zip"
 	},
 	"php83": {
 		"label": "PHP v8.3.20",
-		"url": "https://windows.php.net/downloads/releases/php-8.3.20-Win32-vs16-x64.zip"
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.3.20-Win32-vs16-x64.zip"
 	},	
 	"php84": {
 		"label": "PHP v8.4.6",
-		"url": "https://windows.php.net/downloads/releases/php-8.4.6-Win32-vs17-x64.zip"
+		"url": "https://windows.php.net/downloads/releases/archives/php-8.4.6-Win32-vs17-x64.zip"
 	},
 	"mariadb11": {
 		"label": "MariaDB v11.4.5",
